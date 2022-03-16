@@ -27,7 +27,7 @@
   </property>
   <property name="windowIcon">
    <iconset>
-    <normaloff>../../../../Images/AS Bellerive Club de Football Logo.png</normaloff>../../../../Images/AS Bellerive Club de Football Logo.png</iconset>
+    <normaloff>../icons/lop.png</normaloff>../icons/lop.png</iconset>
   </property>
   <layout class="QHBoxLayout" name="horizontalLayout">
    <item>
@@ -45,7 +45,7 @@
       <enum>Qt::RichText</enum>
      </property>
      <property name="pixmap">
-      <pixmap>../../../../Images/LOP.png</pixmap>
+      <pixmap>../icons/lop.png</pixmap>
      </property>
      <property name="scaledContents">
       <bool>true</bool>
