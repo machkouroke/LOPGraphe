@@ -1,5 +1,4 @@
 altgraph==0.17.2
-auto-py-to-exe==2.13.0
 bottle-websocket==0.2.9
 bottle==0.12.20
 cffi==1.15.0
