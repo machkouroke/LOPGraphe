@@ -18,7 +18,7 @@ pefile==2021.9.3
 Pillow==9.0.1
 pip==21.3.1
 pycparser==2.21
-pygraphviz==1.7
+
 pyinstaller-hooks-contrib==2021.4
 pyinstaller==4.7
 pyparsing==3.0.6
